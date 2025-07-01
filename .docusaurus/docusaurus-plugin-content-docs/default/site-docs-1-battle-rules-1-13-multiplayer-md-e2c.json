@@ -1,0 +1,27 @@
+{
+  "id": "1 Battle Rules/1.13 Multiplayer",
+  "title": "1.13 Multiplayer",
+  "description": "Alliances",
+  "source": "@site/docs/1 Battle Rules/1.13 Multiplayer.md",
+  "sourceDirName": "1 Battle Rules",
+  "slug": "/1 Battle Rules/1.13 Multiplayer",
+  "permalink": "/docs/1 Battle Rules/1.13 Multiplayer",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/1 Battle Rules/1.13 Multiplayer.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 13,
+  "frontMatter": {
+    "sidebar_position": 13
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "1.12 Magic",
+    "permalink": "/docs/1 Battle Rules/1.12 Magic"
+  },
+  "next": {
+    "title": "2.1 Post-game Sequence",
+    "permalink": "/docs/2 Campaign Rules/2.1 Post-game Sequence"
+  }
+}

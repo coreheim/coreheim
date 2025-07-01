@@ -1,0 +1,24 @@
+{
+  "id": "3 Warband Lists/3.3 Undead",
+  "title": "3.3 Undead",
+  "description": "“I put my blade right through it and it just kept coming at me. I swear that thing was not human!” - Fritz Sonne, before retiring from his Mercenary company",
+  "source": "@site/docs/3 Warband Lists/3.3 Undead.md",
+  "sourceDirName": "3 Warband Lists",
+  "slug": "/3 Warband Lists/3.3 Undead",
+  "permalink": "/docs/3 Warband Lists/3.3 Undead",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/3 Warband Lists/3.3 Undead.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "3.2 Witch Hunters",
+    "permalink": "/docs/3 Warband Lists/3.2 Witch Hunters"
+  },
+  "next": {
+    "title": "3.4 Night Goblins",
+    "permalink": "/docs/3 Warband Lists/3.4 Night Goblins"
+  }
+}

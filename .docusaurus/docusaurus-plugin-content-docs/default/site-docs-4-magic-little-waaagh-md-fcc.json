@@ -1,0 +1,24 @@
+{
+  "id": "4 Magic/Little Waaagh",
+  "title": "Little Waaagh",
+  "description": "Fungus Breath D 8+ / 10+",
+  "source": "@site/docs/4 Magic/Little Waaagh.md",
+  "sourceDirName": "4 Magic",
+  "slug": "/4 Magic/Little Waaagh",
+  "permalink": "/docs/4 Magic/Little Waaagh",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/4 Magic/Little Waaagh.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Hedge Magic",
+    "permalink": "/docs/4 Magic/Hedge Magic"
+  },
+  "next": {
+    "title": "Lore of Vampires",
+    "permalink": "/docs/4 Magic/Lore of Vampires"
+  }
+}

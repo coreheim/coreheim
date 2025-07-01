@@ -1,0 +1,24 @@
+{
+  "id": "6 Scenarios/Scenario - Lost in the Fog",
+  "title": "Scenario - Lost in the Fog",
+  "description": "Deployment",
+  "source": "@site/docs/6 Scenarios/Scenario - Lost in the Fog.md",
+  "sourceDirName": "6 Scenarios",
+  "slug": "/6 Scenarios/Scenario - Lost in the Fog",
+  "permalink": "/docs/6 Scenarios/Scenario - Lost in the Fog",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/6 Scenarios/Scenario - Lost in the Fog.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Scenario - Enter the Necromancer’s Tower",
+    "permalink": "/docs/6 Scenarios/Scenario - Enter the Necromancer’s Tower"
+  },
+  "next": {
+    "title": "Scenario - Rat Race",
+    "permalink": "/docs/6 Scenarios/Scenario - Rat Race"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "Coreheim & Roll High Conversion",
+  "title": "Coreheim & Roll High Conversion",
+  "description": "WS BS S I",
+  "source": "@site/docs/Coreheim & Roll High Conversion.md",
+  "sourceDirName": ".",
+  "slug": "/Coreheim & Roll High Conversion",
+  "permalink": "/docs/Coreheim & Roll High Conversion",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Coreheim & Roll High Conversion.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Scenario - The Middle Bridge",
+    "permalink": "/docs/6 Scenarios/Scenario - The Middle Bridge"
+  },
+  "next": {
+    "title": "FAQ",
+    "permalink": "/docs/FAQ"
+  }
+}

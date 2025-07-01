@@ -1,0 +1,24 @@
+{
+  "id": "4 Magic/Necromancy",
+  "title": "Necromancy",
+  "description": "Drain Life D 9+",
+  "source": "@site/docs/4 Magic/Necromancy.md",
+  "sourceDirName": "4 Magic",
+  "slug": "/4 Magic/Necromancy",
+  "permalink": "/docs/4 Magic/Necromancy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/4 Magic/Necromancy.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Lore of Vampires",
+    "permalink": "/docs/4 Magic/Lore of Vampires"
+  },
+  "next": {
+    "title": "Prayers of Sigmar",
+    "permalink": "/docs/4 Magic/Prayers of Sigmar"
+  }
+}

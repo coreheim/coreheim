@@ -1,0 +1,24 @@
+{
+  "id": "4 Magic/Hedge Magic",
+  "title": "Hedge Magic",
+  "description": "Wind of Amüll D 7+",
+  "source": "@site/docs/4 Magic/Hedge Magic.md",
+  "sourceDirName": "4 Magic",
+  "slug": "/4 Magic/Hedge Magic",
+  "permalink": "/docs/4 Magic/Hedge Magic",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/4 Magic/Hedge Magic.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chaos Rituals",
+    "permalink": "/docs/4 Magic/Chaos Rituals"
+  },
+  "next": {
+    "title": "Little Waaagh",
+    "permalink": "/docs/4 Magic/Little Waaagh"
+  }
+}

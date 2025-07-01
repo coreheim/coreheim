@@ -1,0 +1,24 @@
+{
+  "id": "1.8 Psychology, Regeneration",
+  "title": "Leaders",
+  "description": "Warriors within 7” of their warband leader may use the leader’s Leadership (Ld) characteristic instead of their own.",
+  "source": "@site/docs/1.8 Psychology, Regeneration.md",
+  "sourceDirName": ".",
+  "slug": "/1.8 Psychology, Regeneration",
+  "permalink": "/docs/1.8 Psychology, Regeneration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/1.8 Psychology, Regeneration.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Wounding",
+    "permalink": "/docs/1.7 Wounds and Injuries"
+  },
+  "next": {
+    "title": "Deployment",
+    "permalink": "/docs/1.9 Deployment and Rout Tests"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "3 Warband Lists/3.4 Night Goblins",
+  "title": "3.4 Night Goblins",
+  "description": "“Sticks n’ stones break-a bones, but Gork n’ Mork smash 'ead ta bitz!” - Balob Redeye, Night Goblin Shaman",
+  "source": "@site/docs/3 Warband Lists/3.4 Night Goblins.md",
+  "sourceDirName": "3 Warband Lists",
+  "slug": "/3 Warband Lists/3.4 Night Goblins",
+  "permalink": "/docs/3 Warband Lists/3.4 Night Goblins",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/3 Warband Lists/3.4 Night Goblins.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "3.3 Undead",
+    "permalink": "/docs/3 Warband Lists/3.3 Undead"
+  },
+  "next": {
+    "title": "3.5 Cult of the Possessed",
+    "permalink": "/docs/3 Warband Lists/3.5 Cult of the Possessed"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "2 Campaign Rules/2.3 Hired Swords",
+  "title": "2.3 Hired Swords",
+  "description": "📜 Hired Swords – Rules Summary",
+  "source": "@site/docs/2 Campaign Rules/2.3 Hired Swords.md",
+  "sourceDirName": "2 Campaign Rules",
+  "slug": "/2 Campaign Rules/2.3 Hired Swords",
+  "permalink": "/docs/2 Campaign Rules/2.3 Hired Swords",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2 Campaign Rules/2.3 Hired Swords.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "2.2 Experience",
+    "permalink": "/docs/2 Campaign Rules/2.2 Experience"
+  },
+  "next": {
+    "title": "2.4 Recruiting a Warband",
+    "permalink": "/docs/2 Campaign Rules/2.4 Recruiting a Warband"
+  }
+}

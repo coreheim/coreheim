@@ -1,0 +1,24 @@
+{
+  "id": "5 Reference/5.6 Weapons Notes",
+  "title": "5.6 Weapons Notes",
+  "description": "⚔️ Weapon & Combat Rules Reference",
+  "source": "@site/docs/5 Reference/5.6 Weapons Notes.md",
+  "sourceDirName": "5 Reference",
+  "slug": "/5 Reference/5.6 Weapons Notes",
+  "permalink": "/docs/5 Reference/5.6 Weapons Notes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/5 Reference/5.6 Weapons Notes.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "5.5 Combat Tables",
+    "permalink": "/docs/5 Reference/5.5 Combat Tables"
+  },
+  "next": {
+    "title": "5.7 Critical Wounds, Overkill, Nimble",
+    "permalink": "/docs/5 Reference/5.7 Critical Wounds, Overkill, Nimble"
+  }
+}
