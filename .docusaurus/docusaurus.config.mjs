@@ -50,23 +50,19 @@ export default {
           "sidebarPath": "./sidebars.ts",
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
-        "blog": {
-          "showReadingTime": true,
-          "feedOptions": {
-            "type": [
-              "rss",
-              "atom"
-            ],
-            "xslt": true
-          },
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
-          "onInlineTags": "warn",
-          "onInlineAuthors": "warn",
-          "onUntruncatedBlogPosts": "warn"
-        },
         "theme": {
           "customCss": "./src/css/custom.css"
         }
+      }
+    ]
+  ],
+  "plugins": [
+    [
+      "/Users/colby/colby/coreheim/node_modules/docusaurus-lunr-search/src/index.js",
+      {
+        "languages": [
+          "en"
+        ]
       }
     ]
   ],
@@ -84,16 +80,6 @@ export default {
           "sidebarId": "tutorialSidebar",
           "position": "left",
           "label": "Coreheim"
-        },
-        {
-          "to": "/blog",
-          "label": "Blog",
-          "position": "left"
-        },
-        {
-          "href": "https://github.com/facebook/docusaurus",
-          "label": "GitHub",
-          "position": "right"
         }
       ],
       "hideOnScroll": false
@@ -347,7 +333,6 @@ export default {
     "static"
   ],
   "customFields": {},
-  "plugins": [],
   "themes": [],
   "scripts": [],
   "headTags": [],

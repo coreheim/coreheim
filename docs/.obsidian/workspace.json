@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Battle Rules/1.4 Charges.md",
+                "file": "1 Battle Rules/1.7 Wounds and Injuries.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.4 Charges"
+              "title": "1.7 Wounds and Injuries"
             }
           }
         ]
@@ -167,13 +167,14 @@
   },
   "active": "89df9c9622945016",
   "lastOpenFiles": [
+    "1 Battle Rules/1.4 Charges.md",
+    "4.8 Interception.md",
     "5 Reference/5.99 Version History.md",
     "5 Reference/5.5 Combat Tables.md",
     "2 Campaign Rules/2.1 Post-game Sequence.md",
     "2 Campaign Rules/2.3 Hired Swords.md",
     "1 Battle Rules/1.7 Wounds and Injuries.md",
     "4.5 Combat Tables.md",
-    "1 Battle Rules/1.4 Charges.md",
     "3 Warband Lists/3.7 Sisters of Sigmar.md",
     "3 Warband Lists/3.6 Skaven Clan Eshin.md",
     "3 Warband Lists/3.5 Cult of the Possessed.md",
@@ -192,7 +193,6 @@
     "6 Scenarios/Scenario - Dark Ritual.md",
     "6 Scenarios/6.1 Scenarios.md",
     "5 Reference/5.9 Exploration Chart.md",
-    "5 Reference/5.8 Interception.md",
     "docs/fixlinks.py",
     "docs/coreheim_roster_sheets.pdf",
     "docs/6 Scenarios",
