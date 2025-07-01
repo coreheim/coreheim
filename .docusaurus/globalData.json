@@ -271,6 +271,26 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "7 Sample Warbands/7.1 Warband Roster Template",
+              "path": "/docs/7 Sample Warbands/7.1 Warband Roster Template",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "7 Sample Warbands/Cult of the Possessed Sample",
+              "path": "/docs/7 Sample Warbands/Cult of the Possessed Sample",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "7 Sample Warbands/Mercenaries Sample",
+              "path": "/docs/7 Sample Warbands/Mercenaries Sample",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "7 Sample Warbands/Witch Hunters Sample",
+              "path": "/docs/7 Sample Warbands/Witch Hunters Sample",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "coreheim",
               "path": "/docs/coreheim",
               "sidebar": "tutorialSidebar"
@@ -303,8 +323,8 @@
   "docusaurus-lunr-search": {
     "default": {
       "fileNames": {
-        "searchDoc": "search-doc-1751331760339.json",
-        "lunrIndex": "lunr-index-1751331760339.json"
+        "searchDoc": "search-doc-1751352347461.json",
+        "lunrIndex": "lunr-index-1751352347461.json"
       }
     }
   }

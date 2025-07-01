@@ -3,17 +3,52 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug', '5ff'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
+    exact: true
+  },
+  {
     path: '/markdown-page',
     component: ComponentCreator('/markdown-page', '3d7'),
     exact: true
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '5e7'),
+    component: ComponentCreator('/docs', '4e5'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'b4b'),
+        component: ComponentCreator('/docs', '8ac'),
         routes: [
           {
             path: '/docs/tags',
@@ -27,7 +62,7 @@ export default [
           },
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'cdb'),
+            component: ComponentCreator('/docs', '49a'),
             routes: [
               {
                 path: '/docs/1 Battle Rules/1.1 Profile Characteristics',
@@ -338,6 +373,30 @@ export default [
               {
                 path: '/docs/6 Scenarios/Scenario - The Middle Bridge',
                 component: ComponentCreator('/docs/6 Scenarios/Scenario - The Middle Bridge', 'd89'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/7 Sample Warbands/7.1 Warband Roster Template',
+                component: ComponentCreator('/docs/7 Sample Warbands/7.1 Warband Roster Template', '2cd'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/7 Sample Warbands/Cult of the Possessed Sample',
+                component: ComponentCreator('/docs/7 Sample Warbands/Cult of the Possessed Sample', '9d8'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/7 Sample Warbands/Mercenaries Sample',
+                component: ComponentCreator('/docs/7 Sample Warbands/Mercenaries Sample', '569'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/7 Sample Warbands/Witch Hunters Sample',
+                component: ComponentCreator('/docs/7 Sample Warbands/Witch Hunters Sample', 'e06'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

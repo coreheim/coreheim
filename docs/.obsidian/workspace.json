@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "1.7 Wounds and Injuries"
             }
+          },
+          {
+            "id": "18a762fc7e5603de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Campaign Rules/2.3 Hired Swords.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.3 Hired Swords"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "0fe36886b3d0efae",
@@ -140,15 +155,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "2 Campaign Rules/2.3 Hired Swords.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 2.3 Hired Swords"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -162,18 +179,32 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "89df9c9622945016",
+  "active": "18a762fc7e5603de",
   "lastOpenFiles": [
+    "3 Warband Lists/3.1 Mercenary Warbands.md",
+    "2 Campaign Rules/2.3 Hired Swords.md",
+    "7 Sample Warbands/Witch Hunters Sample.md",
+    "7 Sample Warbands/Mercenaries Sample.md",
+    "7 Sample Warbands/Cult of the Possessed Sample.md",
+    "4 Magic/Chaos Rituals.md",
+    "1 Battle Rules/1.7 Wounds and Injuries.md",
+    "7 Sample Warbands/7.1 Warband Roster Template.md",
+    "coreheim_roster_sheets.pdf",
+    "7 Sample Warbands",
+    "css/MCL Gallery Cards.css",
+    "css/MCL Multi Column.css",
+    "css/MCL Wide Views.css",
+    "css",
+    "MCL Wide Views.css",
     "1 Battle Rules/1.4 Charges.md",
     "4.8 Interception.md",
     "5 Reference/5.99 Version History.md",
     "5 Reference/5.5 Combat Tables.md",
     "2 Campaign Rules/2.1 Post-game Sequence.md",
-    "2 Campaign Rules/2.3 Hired Swords.md",
-    "1 Battle Rules/1.7 Wounds and Injuries.md",
     "4.5 Combat Tables.md",
     "3 Warband Lists/3.7 Sisters of Sigmar.md",
     "3 Warband Lists/3.6 Skaven Clan Eshin.md",
@@ -182,26 +213,13 @@
     "3 Warband Lists/3.3 Undead.md",
     "3 Warband Lists/3.2 Witch Hunters.md",
     "4 Magic/Prayers of Sigmar.md",
-    "4 Magic/Chaos Rituals.md",
     "coreheim.md",
     "Coreheim & Roll High Conversion.md",
     "6 Scenarios/Scenario - Rat Race.md",
     "6 Scenarios/Scenario - Enter the Necromancer’s Tower.md",
     "6 Scenarios/Scenario - Dragon Hunt.md",
-    "6 Scenarios/Scenario - Down at the Docks.md",
-    "6 Scenarios/Scenario - Defend the Find.md",
-    "6 Scenarios/Scenario - Dark Ritual.md",
-    "6 Scenarios/6.1 Scenarios.md",
-    "5 Reference/5.9 Exploration Chart.md",
     "docs/fixlinks.py",
     "docs/coreheim_roster_sheets.pdf",
-    "docs/6 Scenarios",
-    "docs/5 Reference",
-    "docs/4 Magic",
-    "docs/3 Warband Lists",
-    "docs/2 Campaign Rules",
-    "docs/1 Battle Rules",
-    "fixlinks.py",
-    "docs"
+    "docs/6 Scenarios"
   ]
 }
