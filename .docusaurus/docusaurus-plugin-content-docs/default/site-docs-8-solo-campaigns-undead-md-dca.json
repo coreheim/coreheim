@@ -1,0 +1,24 @@
+{
+  "id": "8 Solo Campaigns/Undead",
+  "title": "Undead",
+  "description": "🧟‍♂️ Undead – Story Mission Conversions",
+  "source": "@site/docs/8 Solo Campaigns/Undead.md",
+  "sourceDirName": "8 Solo Campaigns",
+  "slug": "/8 Solo Campaigns/Undead",
+  "permalink": "/docs/8 Solo Campaigns/Undead",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/8 Solo Campaigns/Undead.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Skaven Campaign",
+    "permalink": "/docs/8 Solo Campaigns/Skaven Campaign"
+  },
+  "next": {
+    "title": "Witch Hunters",
+    "permalink": "/docs/8 Solo Campaigns/Witch Hunters"
+  }
+}

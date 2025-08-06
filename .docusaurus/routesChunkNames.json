@@ -1,316 +1,273 @@
 {
-  "/__docusaurus/debug-5ff": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/config-5ba": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/content-a2b": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    },
-    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
-  },
-  "/__docusaurus/debug/globalData-c3c": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/metadata-156": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/registry-88c": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/routes-000": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
   "/markdown-page-3d7": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---markdown-pagea-74-7b5"
+      "plugin": "a7456010"
     },
-    "content": "content---markdown-page-393-028"
+    "content": "393be207"
   },
   "/docs-4e5": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__comp": "5e95c892",
     "__context": {
-      "plugin": "plugin---docsaba-d7c"
+      "plugin": "aba21aa0"
     }
   },
   "/docs-8ac": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---docs-005-788"
+    "__comp": "a7bd4aaa",
+    "__props": "0058b4c6"
   },
   "/docs/tags-fce": {
-    "__comp": "__comp---theme-doc-tags-list-page-372-89e",
-    "__props": "__props---docs-tags-898-65c"
+    "__comp": "3720c009",
+    "__props": "898514b1"
   },
   "/docs/tags/warband-2b8": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-warbanda-83-f24"
+    "__comp": "df203c0f",
+    "__props": "a83c7553"
   },
   "/docs-49a": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
+    "__comp": "a94703ab"
   },
   "/docs/1 Battle Rules/1.1 Profile Characteristics-6d0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-1-battle-rules-1-1-profile-characteristicsbae-e2b"
+    "__comp": "17896441",
+    "content": "baec779a"
   },
   "/docs/1 Battle Rules/1.10 Animals, Mounts and Monsters-e02": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-1-battle-rules-1-10-animals-mounts-and-monsterseaa-167"
+    "__comp": "17896441",
+    "content": "eaaf05d7"
   },
   "/docs/1 Battle Rules/1.11 Arming and Equipping Warriors-695": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-1-battle-rules-1-11-arming-and-equipping-warriorsa-1-f-f52"
+    "__comp": "17896441",
+    "content": "a1ff7b9c"
   },
   "/docs/1 Battle Rules/1.12 Magic-cf5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-1-battle-rules-1-12-magicf-10-e95"
+    "__comp": "17896441",
+    "content": "f102f320"
   },
   "/docs/1 Battle Rules/1.13 Multiplayer-d95": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-1-battle-rules-1-13-multiplayere-2-c-671"
+    "__comp": "17896441",
+    "content": "e2c6b739"
   },
   "/docs/1 Battle Rules/1.2 Turn Sequence-799": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-1-battle-rules-1-2-turn-sequence-366-d8c"
+    "__comp": "17896441",
+    "content": "366e94b2"
   },
   "/docs/1 Battle Rules/1.3 Movement-872": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-1-battle-rules-1-3-movementfe-1-02b"
+    "__comp": "17896441",
+    "content": "fe1f70f8"
   },
   "/docs/1 Battle Rules/1.4 Charges-951": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-1-battle-rules-1-4-charges-2-d-4-4d6"
+    "__comp": "17896441",
+    "content": "2d439376"
   },
   "/docs/1 Battle Rules/1.5 Close Combat-f18": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-1-battle-rules-1-5-close-combatc-9-f-3c5"
+    "__comp": "17896441",
+    "content": "c9fb988d"
   },
   "/docs/1 Battle Rules/1.6 Shooting-46c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-1-battle-rules-1-6-shootingb-6-e-efc"
+    "__comp": "17896441",
+    "content": "b6e85291"
   },
   "/docs/1 Battle Rules/1.7 Wounds and Injuries-f15": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-1-battle-rules-1-7-wounds-and-injuriesfa-5-224"
+    "__comp": "17896441",
+    "content": "fa5cf785"
   },
   "/docs/1 Battle Rules/1.8 Psychology, Regeneration-962": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-1-battle-rules-1-8-psychology-regeneration-005-8b2"
+    "__comp": "17896441",
+    "content": "0059d532"
   },
   "/docs/1 Battle Rules/1.9 Deployment and Rout Tests-0fe": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-1-battle-rules-1-9-deployment-and-rout-tests-14-c-820"
+    "__comp": "17896441",
+    "content": "14cb870c"
   },
   "/docs/2 Campaign Rules/2.1 Post-game Sequence-817": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-2-campaign-rules-2-1-post-game-sequence-0-d-4-c47"
+    "__comp": "17896441",
+    "content": "0d413546"
   },
   "/docs/2 Campaign Rules/2.2 Experience-751": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-2-campaign-rules-2-2-experience-837-17d"
+    "__comp": "17896441",
+    "content": "837a5579"
   },
   "/docs/2 Campaign Rules/2.3 Hired Swords-29f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-2-campaign-rules-2-3-hired-swords-475-606"
+    "__comp": "17896441",
+    "content": "475fe367"
   },
   "/docs/2 Campaign Rules/2.4 Recruiting a Warband-501": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-2-campaign-rules-2-4-recruiting-a-warband-380-c1f"
+    "__comp": "17896441",
+    "content": "3807a63e"
   },
   "/docs/3 Warband Lists/3.1 Mercenary Warbands-f98": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-3-warband-lists-3-1-mercenary-warbandsaa-4-911"
+    "__comp": "17896441",
+    "content": "aa425ecf"
   },
   "/docs/3 Warband Lists/3.2 Witch Hunters-550": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-3-warband-lists-3-2-witch-hunters-87-c-bac"
+    "__comp": "17896441",
+    "content": "87c19cbc"
   },
   "/docs/3 Warband Lists/3.3 Undead-7f2": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-3-warband-lists-3-3-undead-969-f8c"
+    "__comp": "17896441",
+    "content": "96979267"
   },
   "/docs/3 Warband Lists/3.4 Night Goblins-f8a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-3-warband-lists-3-4-night-goblins-077-c44"
+    "__comp": "17896441",
+    "content": "07740345"
   },
   "/docs/3 Warband Lists/3.5 Cult of the Possessed-a49": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-3-warband-lists-3-5-cult-of-the-possessed-128-886"
+    "__comp": "17896441",
+    "content": "128f5bed"
   },
   "/docs/3 Warband Lists/3.6 Skaven Clan Eshin-fc4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-3-warband-lists-3-6-skaven-clan-eshina-30-f38"
+    "__comp": "17896441",
+    "content": "a3017d4b"
   },
   "/docs/3 Warband Lists/3.7 Sisters of Sigmar-fcd": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-3-warband-lists-3-7-sisters-of-sigmar-7-e-4-b14"
+    "__comp": "17896441",
+    "content": "7e47c7e7"
   },
   "/docs/4 Magic/Chaos Rituals-6fc": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-4-magic-chaos-rituals-861-aca"
+    "__comp": "17896441",
+    "content": "861364a8"
   },
   "/docs/4 Magic/Hedge Magic-ee0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-4-magic-hedge-magic-5-db-cd7"
+    "__comp": "17896441",
+    "content": "5db7fc63"
   },
   "/docs/4 Magic/Little Waaagh-40f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-4-magic-little-waaaghfcc-b75"
+    "__comp": "17896441",
+    "content": "fcc3706f"
   },
   "/docs/4 Magic/Lore of Vampires-81e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-4-magic-lore-of-vampiresad-1-578"
+    "__comp": "17896441",
+    "content": "ad143b6c"
   },
   "/docs/4 Magic/Necromancy-f69": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-4-magic-necromancy-5-d-1-994"
+    "__comp": "17896441",
+    "content": "5d18c359"
   },
   "/docs/4 Magic/Prayers of Sigmar-f9e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-4-magic-prayers-of-sigmar-870-dd6"
+    "__comp": "17896441",
+    "content": "870e695b"
   },
   "/docs/4 Magic/Sorcery of Rhuin-419": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-4-magic-sorcery-of-rhuin-686-3b9"
+    "__comp": "17896441",
+    "content": "68647778"
   },
   "/docs/5 Reference/5.1 Skill Lists-5e1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-5-reference-5-1-skill-lists-4-e-3-2a8"
+    "__comp": "17896441",
+    "content": "4e3e7d16"
   },
   "/docs/5 Reference/5.2 Price Chart-8b3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-5-reference-5-2-price-chart-30-e-336"
+    "__comp": "17896441",
+    "content": "30e92966"
   },
   "/docs/5 Reference/5.3 Heroes post-game Injuries Table-b5d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-5-reference-5-3-heroes-post-game-injuries-tableb-0-f-090"
+    "__comp": "17896441",
+    "content": "b0f4b6bb"
   },
   "/docs/5 Reference/5.4 Exploration and Experience Tables-b30": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-5-reference-5-4-exploration-and-experience-tables-822-77d"
+    "__comp": "17896441",
+    "content": "82291441"
   },
   "/docs/5 Reference/5.5 Combat Tables-eb0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-5-reference-5-5-combat-tables-573-707"
+    "__comp": "17896441",
+    "content": "57310f19"
   },
   "/docs/5 Reference/5.6 Weapons Notes-a30": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-5-reference-5-6-weapons-notes-8-ca-a6e"
+    "__comp": "17896441",
+    "content": "8ca898fc"
   },
   "/docs/5 Reference/5.7 Critical Wounds, Overkill, Nimble-541": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-5-reference-5-7-critical-wounds-overkill-nimble-736-874"
+    "__comp": "17896441",
+    "content": "736a88a9"
   },
   "/docs/5 Reference/5.8 Interception-9ba": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-5-reference-5-8-interceptionef-4-387"
+    "__comp": "17896441",
+    "content": "ef43fa2b"
   },
   "/docs/5 Reference/5.9 Exploration Chart-e94": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-5-reference-5-9-exploration-chart-36-f-700"
+    "__comp": "17896441",
+    "content": "36ffc071"
   },
   "/docs/5 Reference/5.99 Version History-bc8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-5-reference-5-99-version-history-3-a-3-f2c"
+    "__comp": "17896441",
+    "content": "3a35d2d6"
   },
   "/docs/6 Scenarios/6.1 Scenarios-258": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-6-scenarios-6-1-scenarios-079-338"
+    "__comp": "17896441",
+    "content": "079bbba0"
   },
   "/docs/6 Scenarios/Scenario - Dark Ritual-25e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-6-scenarios-scenario-dark-ritualc-43-531"
+    "__comp": "17896441",
+    "content": "c43c1294"
   },
   "/docs/6 Scenarios/Scenario - Defend the Find-2b5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-6-scenarios-scenario-defend-the-find-93-a-759"
+    "__comp": "17896441",
+    "content": "93ac67e5"
   },
   "/docs/6 Scenarios/Scenario - Down at the Docks-7b1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-6-scenarios-scenario-down-at-the-docks-2-ff-0cd"
+    "__comp": "17896441",
+    "content": "2ff3dd03"
   },
   "/docs/6 Scenarios/Scenario - Dragon Hunt-5c7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-6-scenarios-scenario-dragon-huntf-63-2fc"
+    "__comp": "17896441",
+    "content": "f63e997a"
   },
   "/docs/6 Scenarios/Scenario - Enter the Necromancer’s Tower-cc3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-6-scenarios-scenario-enter-the-necromancers-tower-15-f-114"
+    "__comp": "17896441",
+    "content": "15fbe30d"
   },
   "/docs/6 Scenarios/Scenario - Lost in the Fog-fce": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-6-scenarios-scenario-lost-in-the-fog-634-626"
+    "__comp": "17896441",
+    "content": "634ce1b0"
   },
   "/docs/6 Scenarios/Scenario - Rat Race-16b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-6-scenarios-scenario-rat-racec-29-302"
+    "__comp": "17896441",
+    "content": "c29e258d"
   },
   "/docs/6 Scenarios/Scenario - Stagecoach Ambush-61a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-6-scenarios-scenario-stagecoach-ambushedf-feb"
+    "__comp": "17896441",
+    "content": "edfe4a08"
   },
   "/docs/6 Scenarios/Scenario - Stake-Out-dd2": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-6-scenarios-scenario-stake-out-196-622"
+    "__comp": "17896441",
+    "content": "1964cd53"
   },
   "/docs/6 Scenarios/Scenario - The Middle Bridge-d89": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-6-scenarios-scenario-the-middle-bridge-080-6ad"
+    "__comp": "17896441",
+    "content": "080540df"
   },
   "/docs/7 Sample Warbands/7.1 Warband Roster Template-2cd": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-7-sample-warbands-7-1-warband-roster-templatec-0-c-1c3"
+    "__comp": "17896441",
+    "content": "c0c64b62"
   },
   "/docs/7 Sample Warbands/Cult of the Possessed Sample-9d8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-7-sample-warbands-cult-of-the-possessed-sample-577-2b4"
+    "__comp": "17896441",
+    "content": "5777e5ca"
   },
   "/docs/7 Sample Warbands/Mercenaries Sample-569": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-7-sample-warbands-mercenaries-samplef-50-c8a"
+    "__comp": "17896441",
+    "content": "f5093bfe"
   },
   "/docs/7 Sample Warbands/Witch Hunters Sample-e06": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-7-sample-warbands-witch-hunters-sample-0-fb-3b1"
+    "__comp": "17896441",
+    "content": "0fb4da4f"
   },
   "/docs/coreheim-25c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-coreheimb-32-6fc"
+    "__comp": "17896441",
+    "content": "b32f81c2"
   },
   "/docs/Coreheim & Roll High Conversion-212": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-coreheim-roll-high-conversionbcf-7c1"
+    "__comp": "17896441",
+    "content": "bcff1f89"
   },
   "/docs/FAQ-953": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-fa-qad-8-5a1"
+    "__comp": "17896441",
+    "content": "ad895e75"
   },
   "/-e5f": {
-    "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
+    "__comp": "1df93b7f",
     "__context": {
-      "plugin": "plugin---markdown-pagea-74-7b5"
+      "plugin": "a7456010"
     },
-    "config": "config---5-e-9-4f3"
+    "config": "5e9f5e1a"
   }
 }

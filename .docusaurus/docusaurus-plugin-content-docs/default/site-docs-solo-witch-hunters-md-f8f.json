@@ -1,0 +1,20 @@
+{
+  "id": "solo/Witch Hunters",
+  "title": "Witch Hunters",
+  "description": "🔎 Witch Hunters – Story Mission Conversions",
+  "source": "@site/docs/solo/Witch Hunters.md",
+  "sourceDirName": "solo",
+  "slug": "/solo/Witch Hunters",
+  "permalink": "/docs/solo/Witch Hunters",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/solo/Witch Hunters.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Undead",
+    "permalink": "/docs/solo/Undead"
+  }
+}
