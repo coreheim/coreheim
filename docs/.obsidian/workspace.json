@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Campaign Rules/2.3 Hired Swords.md",
+                "file": "7 Sample Warbands/Witch Hunters Sample.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.3 Hired Swords"
+              "title": "Witch Hunters Sample"
+            }
+          },
+          {
+            "id": "d90db580b4220268",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Battle Rules/1.4 Charges.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.4 Charges"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 346.5
   },
   "right": {
     "id": "0fe36886b3d0efae",
@@ -155,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Campaign Rules/2.3 Hired Swords.md",
+                "file": "1 Battle Rules/1.4 Charges.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2.3 Hired Swords"
+              "title": "Outline of 1.4 Charges"
             }
           }
         ],
@@ -179,15 +193,45 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "18a762fc7e5603de",
+  "active": "d90db580b4220268",
   "lastOpenFiles": [
+    "8 Solo Campaigns/Undead.md",
+    "8 Solo Campaigns/Untitled.md",
+    "8 Solo Campaigns/Witch Hunters.md",
+    "8 Solo Campaigns/Skaven Campaign.md",
+    "8 Solo Campaigns/Cult of the Possessed.md",
+    "8 Solo Campaigns/Mercenaries Campaign.md",
+    "8 Solo Campaigns/8 Solo Campaign.md",
+    "8 Solo Campaigns/Sisters of Sigmar Campaign.md",
+    "8 Solo Campaigns/2.5 Solo Campaign.md",
+    "8 Solo Campaigns",
+    "Solo Campaigns",
+    "2 Campaign Rules/Sisters of Sigmar Campaign.md",
+    "3 Warband Lists/3.2 Witch Hunters.md",
     "3 Warband Lists/3.1 Mercenary Warbands.md",
-    "2 Campaign Rules/2.3 Hired Swords.md",
+    "3 Warband Lists/3.6 Skaven Clan Eshin.md",
+    "2 Campaign Rules/2.4 Recruiting a Warband.md",
+    "2 Campaign Rules/2.5 Solo Campaign.md",
+    "Coreheim & Roll High Conversion.md",
+    "Pasted image 20250703144211.png",
+    "Pasted image 20250703144137.png",
+    "Pasted image 20250703144121.png",
+    "Pasted image 20250703144058.png",
+    "Pasted image 20250703144035.png",
+    "Pasted image 20250703144012.png",
+    "Pasted image 20250703143946.png",
+    "Pasted image 20250703140747.png",
+    "Pasted image 20250703140544.png",
+    "Pasted image 20250703140509.png",
+    "2 Campaign Rules/2.1 Post-game Sequence.md",
+    "2 Campaign Rules/2.2 Experience.md",
+    "Quick Campaign Rules.md",
     "7 Sample Warbands/Witch Hunters Sample.md",
+    "2 Campaign Rules/2.3 Hired Swords.md",
+    "Untitled",
     "7 Sample Warbands/Mercenaries Sample.md",
     "7 Sample Warbands/Cult of the Possessed Sample.md",
     "4 Magic/Chaos Rituals.md",
@@ -199,27 +243,6 @@
     "css/MCL Multi Column.css",
     "css/MCL Wide Views.css",
     "css",
-    "MCL Wide Views.css",
-    "1 Battle Rules/1.4 Charges.md",
-    "4.8 Interception.md",
-    "5 Reference/5.99 Version History.md",
-    "5 Reference/5.5 Combat Tables.md",
-    "2 Campaign Rules/2.1 Post-game Sequence.md",
-    "4.5 Combat Tables.md",
-    "3 Warband Lists/3.7 Sisters of Sigmar.md",
-    "3 Warband Lists/3.6 Skaven Clan Eshin.md",
-    "3 Warband Lists/3.5 Cult of the Possessed.md",
-    "3 Warband Lists/3.4 Night Goblins.md",
-    "3 Warband Lists/3.3 Undead.md",
-    "3 Warband Lists/3.2 Witch Hunters.md",
-    "4 Magic/Prayers of Sigmar.md",
-    "coreheim.md",
-    "Coreheim & Roll High Conversion.md",
-    "6 Scenarios/Scenario - Rat Race.md",
-    "6 Scenarios/Scenario - Enter the Necromancer’s Tower.md",
-    "6 Scenarios/Scenario - Dragon Hunt.md",
-    "docs/fixlinks.py",
-    "docs/coreheim_roster_sheets.pdf",
-    "docs/6 Scenarios"
+    "MCL Wide Views.css"
   ]
 }
