@@ -30,7 +30,7 @@
 - Weapons now modify the ballistic skill role.
 	- Throwing knives -1 to BS rolls
 	- Crossbow, Pistol, Duelling Pistol +1 to BS rolls
-	- Handgun, Long Rifle +2 BS rolls
+	- Rifle, Long Rifle +2 BS rolls
 
 ```
 13 - ( Mordheim BS + 3 ) = Roll High Skill

@@ -27,7 +27,7 @@ XP Milestones:
 | Count | Type                 | M   | WS  | BS  | S   | T   | W   | I   | A   | LD  | Eqiupment   | Skills | XP  |
 | ----- | -------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ----------- | ------ | --- |
 | 1     | Marksmen             | 7   | 4+  | 3+  | 4+  | +0  | 1   | 4+  | 1   | 8+  | Blunderbuss |        | 0   |
-| 2     | Marksmen             | 7   | 4+  | 3+  | 4+  | +0  | 1   | 4+  | 1   | 8+  | Handgun     |        | 0   |
+| 2     | Marksmen             | 7   | 4+  | 3+  | 4+  | +0  | 1   | 4+  | 1   | 8+  | Rifle       |        | 0   |
 | 3     | Free Company Militia | 7   | 3+  | 4+  | 4+  | +0  | 1   | 4+  | 1   | 8+  | Halberd     |        | 0   |
 |       |                      |     |     |     |     |     |     |     |     |     |             |        |     |
 |       |                      |     |     |     |     |     |     |     |     |     |             |        |     |
